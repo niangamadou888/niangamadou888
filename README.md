@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amadou Boubacar Niang</h1>
-<h3 align="center">A passionate frontend developer from Sénégal</h3>
+<h3 align="center">A passionate fullstack developer from Sénégal</h3>
 
 - 🌱 I’m currently learning **programming**
 
@@ -10,6 +10,8 @@
 - 📫 How to reach me **amadouniang2001@gmail.com**
 
 - 📄 Know about my experiences [https://amadouniang-portfolio.netlify.app/](https://amadouniang-portfolio.netlify.app/)
+
+- I have a bachelor degree in **software development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
