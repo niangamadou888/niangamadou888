@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amadou Boubacar Niang</h1>
 <h3 align="center">A passionate fullstack developer from Sénégal</h3>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 - 🌱 I’m currently learning **programming**
 
