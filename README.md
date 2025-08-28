@@ -12,7 +12,7 @@
 
 - 📄 Know about my experiences [https://amadouniang-portfolio.netlify.app/](https://amadouniang-portfolio.netlify.app/)
 
-- I have a bachelor degree in **software development**
+- I have a master degree in **software engineering**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
