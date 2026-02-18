@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **programming**
 
-- 👨‍💻 All of my projects are available at [https://amadouniang-portfolio.netlify.app/](https://amadouniang-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://amadouniang.dev/](https://amadouniang.dev/)
 
 - 💬 Ask me about **javascript, react, unity3d, unreal engine**
 
