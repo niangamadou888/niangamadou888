@@ -97,21 +97,6 @@
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niangamadou888&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" alt="top langs" />
 </p>
 
-### 📈 Detailed Stats
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=niangamadou888&theme=tokyonight" alt="profile details" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=niangamadou888&theme=tokyonight" alt="stats card" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=niangamadou888&theme=tokyonight&utcOffset=0" alt="productive time" />
-</p>
-
-### 🏆 Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=niangamadou888&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="trophies" />
-</p>
-
 ### 📅 Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=niangamadou888&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
